@@ -11,10 +11,8 @@
 - 💡 Suggested enhancements and rewrite ideas
 - 📊 Visual match score with progress indicators
 - 🎨 Sleek and modern UI with dark/light mode
-- 🔒 Optional login to save past refinements (via Firebase Auth)
-- ☁️ Save and load resume-JD pairs from Firestore
 - 📤 Export refined resume or analysis report
-- ⚙️ Built entirely with React, Firebase, and Tailwind
+- ⚙️ Built entirely with React and Tailwind
 
 ---
 
