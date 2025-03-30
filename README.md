@@ -4,6 +4,12 @@
 
 ---
 
+## 🚀 Demo
+
+![AlignCV Demo](aligncv-demo.gif)
+
+---
+
 ## ✨ Features
 
 - 📝 Paste your resume and job description side-by-side
